@@ -9,7 +9,6 @@ Dalam tradisi jawa, Grebeg bermakna perayaan rutin dan ucapan syukur dalam mempe
 - FontAwesome
 - PostgreSQL & PostGIS
 - Leaflet Draw
-- Validation Logic
 - GeoJSON
 - Terraformer
 - QGIS
