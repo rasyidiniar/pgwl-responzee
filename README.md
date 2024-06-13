@@ -14,4 +14,4 @@ Dalam tradisi jawa, Grebeg bermakna perayaan rutin dan ucapan syukur dalam mempe
 - [https://ppid.surakarta.go.id/](https://ppid.surakarta.go.id/)
 
 **Tampilan Web GIS:**
-![Grebeg Sudiro](images/grebeg_sudiro.jpg)
+![Grebeg Sudiro](./storage/images/1.jpg)
