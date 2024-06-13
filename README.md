@@ -4,16 +4,14 @@ Dalam tradisi jawa, Grebeg bermakna perayaan rutin dan ucapan syukur dalam mempe
 
 <h3>Komponen Pembangun:</h3>
 
-- Laravel
-- Bootstrap
-- FontAwesome
-- PostgreSQL & PostGIS
-- Leaflet Draw
-- GeoJSON
-- Terraformer
-- QGIS
-- GeoServer
-- DataTables
+- Laravel (Framework PHP pengembangan aplikasi Web)
+- Bootstrap 5 (Framework CSS pembangun antarmuka responsif)
+- FontAwesome (Pustaka penyedia ikon)
+- PostgreSQL & PostGIS (Manajemen basisdata geospasial)
+- Leaflet Draw (Plugin Leaflet untuk menambahkan data)
+- QGIS (Integrasi dengan WebGIS)
+- GeoServer (Integrasi dengan WebGIS)
+- DataTables (Menampilkan tabel dan interaksi di WebGIS)
 
 <h3>Sumber Data:</h3>
 
